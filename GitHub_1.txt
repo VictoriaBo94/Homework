@@ -74,13 +74,12 @@
 	i
 	{
         "skills": [
-                "Базовая теория SDLC, STLC",
-                "Что такое клиент-серверная архитектура",
-                "HTTP Методы запросов на сервер",
-                "Коды ответов HTTP сервера",
-                "Что такое JSON, XML. Их структура",
-                "Снифинг http web трафика через Charles и Fiddler",
-                "Основы bash скриптинг, автоматизация рутинных задач на сервере"
+		"Basic theory (What is testing, bug reports, documentation, types, methods, areas of testing, etc.) SDLC, STLC", 
+		"What is a client-server architecture",
+		"HTTP Methods of requests to the server and response codes",
+		"What is JSON, XML and their structure",
+		"API testing via Postman (JS, API autotests)",
+		"Removing and reading logs from an external server"
                 ]
 			}
 	esc :wq
